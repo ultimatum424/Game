@@ -29,3 +29,4 @@ std::string name_subject[quantity_subject]
 	"яд"
 };
 */
+//кака€ то ересь
